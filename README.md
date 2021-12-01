@@ -7,7 +7,7 @@
 
 </p>
 
-<p align="justify">
+<p align="left">
   💌 Entre em contato comigo através das plataformas abaixo: ⤵️
 </p>
 
