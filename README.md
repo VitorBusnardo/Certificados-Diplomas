@@ -1,5 +1,4 @@
 # Certificados e Diplomas
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="justify"> 
@@ -29,6 +28,7 @@
 </p>  
 
 <h3> :rocket: &nbsp;Download Currículo</h3>
+
 ```
 https://www.mediafire.com/file/qqcj1qmgf730xgu/Artigo_SyTecb.docx/file
 ```
