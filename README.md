@@ -6,6 +6,14 @@ Através deste repositório é possível visualizar e inspecionar alguns de meus
 </p>
 
 <p align="left">
+  🦄 Observação: <strong>Repositório em Constante Mudança.</strong>
+</p>
+
+<p align="left">
+  💼 Formação Futura: <strong>Tecnologia da Informação e Áreas Afins. </strong>
+</p>
+
+<p align="left">
   💌 Entre em contato comigo através das plataformas abaixo: ⤵️
 </p>
 
