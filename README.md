@@ -10,7 +10,7 @@ Através deste repositório é possível visualizar e inspecionar alguns de meus
 </p>
 
 <p align="left">
-  💼 Formação Futura: <strong>Tecnologia da Informação e Áreas Afins. </strong>
+  💼 Formação: <strong>Sistemas de Informação e Técnico em Desenvolvimento de Sistemas  </strong>
 </p>
 
 <p align="left">
@@ -37,5 +37,5 @@ Através deste repositório é possível visualizar e inspecionar alguns de meus
 <h3> :rocket: &nbsp;Download Currículo</h3>
 
 ```
-https://www.mediafire.com/file/124dvzk7m8xyo2z/Curr%25C3%25ADculo_-_Vitor_Busnardo.docx/file
+https://www.mediafire.com/file/jx7l0lkfwhg3xeu/Currículo+-+Vitor+Busnardo.docx/file
 ```
