@@ -37,5 +37,5 @@ Através deste repositório é possível visualizar e inspecionar alguns de meus
 <h3> :rocket: &nbsp;Download Currículo</h3>
 
 ```
-https://www.mediafire.com/file/jx7l0lkfwhg3xeu/Currículo+-+Vitor+Busnardo.docx/file
+https://www.mediafire.com/file/t5hdplszoaprhqn/Currículo+-+Vitor+Busnardo.docx/file
 ```
